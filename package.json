@@ -1,0 +1,25 @@
+{
+  "name": "conventionalcommits",
+  "version": "1.0.0",
+  "description": "ConventionalCommits, CommitLint and Husky",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "husky": "^7.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yodalis/ConventionalCommits.git"
+  },
+  "author": "Thais Calazans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yodalis/ConventionalCommits/issues"
+  },
+  "homepage": "https://github.com/yodalis/ConventionalCommits#readme"
+}
